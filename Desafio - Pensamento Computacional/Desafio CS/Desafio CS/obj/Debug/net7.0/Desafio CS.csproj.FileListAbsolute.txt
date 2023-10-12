@@ -1,0 +1,14 @@
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\bin\Debug\net7.0\Desafio CS.exe
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\bin\Debug\net7.0\Desafio CS.deps.json
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\bin\Debug\net7.0\Desafio CS.runtimeconfig.json
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\bin\Debug\net7.0\Desafio CS.dll
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\bin\Debug\net7.0\Desafio CS.pdb
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.AssemblyInfoInputs.cache
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.AssemblyInfo.cs
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.dll
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\refint\Desafio CS.dll
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.pdb
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\Desafio CS.genruntimeconfig.cache
+C:\Users\isabe\Downloads\Bootcamp Santander Code 2024\dio-bootcamp-santander-2024\Desafio - Pensamento Computacional\Desafio CS\Desafio CS\obj\Debug\net7.0\ref\Desafio CS.dll
