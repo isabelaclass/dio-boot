@@ -1,6 +1,6 @@
 # DIO Santander Code 2024 Bootcamp
 
-Repository created to save the projects developed during the bootecamp.
+Repository created to save the projects developed during the bootcamp.
 
 ## Author
 
