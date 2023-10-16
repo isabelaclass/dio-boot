@@ -1,4 +1,4 @@
-## Challenge: Selection process
+## Challenge: Cash Withdrawal
 
 The program makes the withdrawal if there is enough amount in the account to do so.
 
