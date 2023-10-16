@@ -1,4 +1,4 @@
-## Challenge: Bank Account
+## Challenge: Computational thinking
 
 The program calculates a certain percentage of tax according to the amount of the user's salary. The challenge was to accomplish this in different programming languages to develop computational thinking.
 
