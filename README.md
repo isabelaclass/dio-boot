@@ -1,8 +1,6 @@
-# DIO Santander Code 2024 Bootecamp
+# DIO Santander Code 2024 Bootcamp
 
 Repository created to save the projects developed during the bootecamp.
-
-
 
 ## Author
 
