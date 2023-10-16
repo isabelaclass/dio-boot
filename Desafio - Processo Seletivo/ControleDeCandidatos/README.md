@@ -4,7 +4,7 @@ The program selects the best candidates for a selection process according to the
 
 ## Folder Structure
 
-The application code is in 'src' folder.
+The application code is in `src` folder.
 
 The compiled output files will be generated in the `bin` folder by default.
 
