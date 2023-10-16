@@ -1,18 +1,14 @@
-## Getting Started
+## Challenge: Selection process
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The program selects the best candidates for a selection process according to the parameters established in the methods. Participants are saved in array form.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The application code is in 'src' folder.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+The compiled output files will be generated in the `bin` folder by default.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Author
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- [@isabelaclass](https://github.com/isabelaclass)
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
