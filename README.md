@@ -4,7 +4,7 @@ Repository created to save the projects developed during the bootecamp.
 
 
 
-## Autor
+## Author
 
 - [@isabelaclass](https://github.com/isabelaclass)
 
