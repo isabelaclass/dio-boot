@@ -4,7 +4,7 @@ The program calculates a certain percentage of tax according to the amount of th
 
 ## Folder Structure
 
-The application code is in 'src' folder.
+The application code is in `src` folder.
 
 The compiled output files will be generated in the `bin` folder by default.
 
